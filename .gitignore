@@ -3,3 +3,6 @@
 .gitattributes
 checkpoint
 _config.yml
+*.index
+/.ipynb_checkpoints
+*.data-00000-of-00001
