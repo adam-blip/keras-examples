@@ -1,2 +1,0 @@
-model_checkpoint_path: "deblurring_weights_6blocks"
-all_model_checkpoint_paths: "deblurring_weights_6blocks"
